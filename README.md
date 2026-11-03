@@ -1,2 +1,2 @@
 # vnuk-team6web
-Dự án  web nhắc lịch học và deadline
+Dự án phần mềm quản lý chi tiêu
